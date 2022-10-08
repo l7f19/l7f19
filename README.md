@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi 👋, I'm Leopold</h1>
-    <h3>A corporate student studying at DHBW Stuttgart and working @IBM</h3>
+    <h3>A corporate student studying at <a href="https://www.dhbw-stuttgart.de/" target="blank">DHBW Stuttgart</a> and working at <a href="https://www.ibm.com" target="blank">IBM</a></h3>
     <br />
     <h3>Feel free to reach out to me:</h3>
     <a href="https://linkedin.com/in/leopold-fuchs" target="blank">
