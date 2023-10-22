@@ -3,7 +3,7 @@
 <a href="https://leopold-fuchs.de" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:kontakt@leopold-fuchs.de" target="_blank">
+<a href="mailto:lf@leopold-fuchs.de" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/leopold-fuchs" target="_blank">
@@ -12,13 +12,11 @@
   
 ## Glad to see you here!
 
-- 🎓 I am pursuing a B.Sc. in Computer Science at the [DHBW Stuttgart](https://www.dhbw-stuttgart.de/en/)
+- 🎓 I am pursuing a M.Sc. in Data Engineering at the [Hasso Plattner Institute](https://hpi.de/en)
 
-- 💼 As a corporate student, I work at [IBM](https://www.ibm.com)
-
-- 🔭 I’m currently working on a [student research project](https://github.com/felixhoffmnn/studienarbeit) about investigating political statements in social media with NLP methods
-  
-- 🌱 I’m currently interested in Data Engineering and NLP
+- 💼 I am working as a Data Science Consultant at [IBM](https://www.ibm.com)
+ 
+- 🌱 I am currently interested in Data Engineering and NLP
 
 
 <br/>  
